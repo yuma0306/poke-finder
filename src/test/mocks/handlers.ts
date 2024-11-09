@@ -1,6 +1,6 @@
 // src/mocks/handlers.js
 import { http, HttpResponse } from 'msw';
-import { pikachuImgEndpoint, pikachuEndpoint } from '../../constants/api';
+import { pikachuImgEndpoint } from '../../constants/api';
 
 const pokemon: any = {
     "25": {
